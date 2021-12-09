@@ -75,6 +75,15 @@ img {
   max-width: 100%;
 }
 
+.parallax {
+  padding: 100px 35px;
+  background: transparent;
+}
+.info {
+  z-index: 2;
+  position: relative;
+}
+
 a {
   display: inline-block;
 }
